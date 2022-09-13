@@ -9,3 +9,5 @@ spring.mail.password=password
 Takodje je potrebno otkomentarisati linije 105 i 151 u klasi AppointmentService u paketu <code>com.dentist.demo.service</code>, da bi radilo slanje mejlova.
 
 Linije su zakomentarisene jer je meni izbacivalo gresku, jer gugl ne dozvoljava pristup mejlu sa "nesigurnih" izvora, a do marta ove godine to vise nije moguce omoguciti rucno.
+
+Takodje nakon prvog pokretanja aplikacije potrebno je insertovati u bazu podatke o zubaru.
